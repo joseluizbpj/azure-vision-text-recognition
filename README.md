@@ -17,7 +17,7 @@ Este projeto demonstra o uso da API do Azure Cognitive Services (Computer Vision
 
 ## 🖼️ Imagens usadas
 
-![Exemplo de imagem](./inputs/nome_da_imagem.jpg)
+![Exemplo de imagem](./inputs/recibo.jpg)
 
 ---
 
