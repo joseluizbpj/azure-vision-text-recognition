@@ -24,4 +24,6 @@ Este projeto demonstra o uso da API do Azure Cognitive Services (Computer Vision
 
 ## 🔎 Resultados obtidos
 
-```txt
+<img src="./output/face reco.png" width="300"/>
+<img src="./output/img caption.png" width="300"/>
+<img src="./output/img to text.png" width="300"/>
