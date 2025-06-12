@@ -9,9 +9,9 @@ Este projeto demonstra o uso da API do Azure Cognitive Services (Computer Vision
 ---
 
 ## 📂 Estrutura do projeto
- 📁 inputs → imagens utilizadas no projeto
- 📁 output → resultados extraídos (texto, legendas, etc)
- 📄 README.md → explicação do processo, prints e insights
+ - 📁 inputs → imagens utilizadas no projeto.
+ - 📁 output → resultados extraídos (texto, legendas, etc).
+ - 📄 README.md → explicação do processo, prints e insights
 
  ---
 
